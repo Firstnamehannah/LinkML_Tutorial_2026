@@ -1,15 +1,15 @@
 ---
 id: https://w3id.org/firstnamehannah/LinkML Tutorial 2026
 name: LinkML_Tutorial_2026
-title: LinkML Tutorial 2026
+title: LinkML_Tutorial_2026
 description: |-
   This is a tutorial on LinkML
 license: MIT
 see_also:
-  - https://firstnamehannah.github.io/LinkML Tutorial 2026
+  - https://firstnamehannah.github.io/LinkML_Tutorial_2026
 
 prefixes:
-  linkml_tutorial_2026: https://w3id.org/firstnamehannah/LinkML Tutorial 2026/
+  linkml_tutorial_2026: https://w3id.org/firstnamehannah/LinkML_Tutorial_2026/
   linkml: https://w3id.org/linkml/
   biolink: https://w3id.org/biolink/vocab/
   schema: http://schema.org/
