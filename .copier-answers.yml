@@ -1,0 +1,16 @@
+# Changes here will be overwritten by Copier
+_commit: v0.5.0
+_src_path: https://github.com/linkml/linkml-project-copier
+add_example: true
+copyright_year: '2026'
+email: keenholdhc@gmail.com
+existing_license_file: ''
+full_name: Hannah Keenhold
+gh_action_docs_preview: true
+gh_action_pypi: true
+github_org: firstnamehannah
+license: MIT
+project_description: This is a tutorial on LinkML
+project_name: LinkML Tutorial 2026
+project_slug: linkml_tutorial_2026
+
